@@ -10,9 +10,10 @@ The goal is to provide clear, well-structured, and easy-to-understand code for v
 ```bash
 DSA-in-C/
 │── LinkedList/
-│   ├── singly_linkedlist.c
+│    singly_linkedlist.c
 │   ├── doubly_linkedlist.c
 │   └── circular_linkedlist.c
+├── .gitignore 
 └── README.md
 ```
 
