@@ -85,16 +85,13 @@ int main(){
         }
     }
 
-    //insertion at beginning
     temp = createNode(5);
     head->prev = temp;
     temp->next = head;
     head = temp;
     
-    //inserting at index
     insertAtIndex(&head,30,4);
 
-    //forwards
     printf("\nDoubly linkedlist forward: ");
     temp = head;
     while(temp != NULL){
@@ -103,7 +100,6 @@ int main(){
     }
     printf("NULL\n");
 
-    //backwards
     printf("Doubly linkedlist backward: ");
     temp = head;
     while(temp->next != NULL){
