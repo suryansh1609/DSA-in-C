@@ -15,8 +15,8 @@ DSA-in-C/
 │   ├── CircularLinkedList.c
 │   └── DoublyCircularLinkedList.c
 │── Stack/
-│ ├── StackArray.c
-│ ├── StackLinkedList.c
+│   ├── StackArray.c
+│   └── StackLinkedList.c
 ├── .gitignore 
 └── README.md
 ```
