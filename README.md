@@ -25,4 +25,5 @@ DSA-in-C/
 
 ## 🚀 Topics Covered  
 
-- Linked List (Singly, Doubly, Circular) 
+- Linked List (Singly, Doubly, Circular , DoublyCircularLinkedList) 
+--- Stack ( StackArray , StackLinkedList)
